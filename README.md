@@ -1,6 +1,6 @@
 # Tic_Tac_Toe_App
 
-# Vite React Tailwind Starter
+# Vite React Starter
 
 This is a [Vite](https://vitejs.dev/) and [React](https://reactjs.org/) project bootstrapped using vite-react-starter created by [Mohanad Magdi](https://github.com/MohanadMagdi/Tic_Tac_Toe_App.git).
 
