@@ -25,7 +25,7 @@ npx degit https://github.com/MohanadMagdi/Tic_Tac_Toe_App my-app
 
 replace `my-app` with your application name
 
-#### 3. Deploy to vercel
+#### 2. Deploy to vercel
 
 [![Deploy with Vercel](https://vercel.com/button)](https://tic-tac-toe-app-chi.vercel.app/)
 
