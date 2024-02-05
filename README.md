@@ -45,5 +45,6 @@ npm run dev
 
 Open [http://localhost:5173/](http://localhost:5173/) with your browser to see the result.
 
-![Finished Build](https://github.com/MohanadMagdi/Tic_Tac_Toe_App/issues/1#issue-2119233415)
-````
+### Finished Build
+
+![Screenshots](https://github.com/MohanadMagdi/Tic_Tac_Toe_App/issues/1#issue-2119233415)
